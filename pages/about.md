@@ -1,9 +1,8 @@
 ---
-title: About
 layout: page
-description: 'Description'
-image: assets/images/pic07.jpg
-nav-menu: true
+title: Aliquam
+description: Ipsum dolor sit amet
+image: assets/images/pic01.jpg
 ---
 
 <!-- Main -->
