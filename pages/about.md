@@ -1,6 +1,6 @@
 ---
 title: About
-layout: post
+layout: page
 description: 'Description'
 image: assets/images/pic07.jpg
 nav-menu: true
