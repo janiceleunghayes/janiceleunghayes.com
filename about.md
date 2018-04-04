@@ -13,9 +13,8 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+			<h2>Janice Who?</h2>
+		</p>Her written work can be found in publications such as the South China Morning Post, AFAR, New York Times, Monocle, Wall Street Journal, Australian Gourmet Traveller, Discovery Magazine (Cathay Pacific), eater.com, and more. She started her career in food writing first at a community magazine in Melbourne, then in Hong Kong at LUXE City Guides.</p>
 	</div>
 </section>
 
@@ -30,7 +29,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Orci maecenas</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Under her food sustainability platform&nbsp;<a href="http://honestlygreen.hk/" target="_blank">Honestly Green</a>, in late 2015, she launched a food-focused farmers market,&nbsp;<a href="http://tongchongstreetmarket.com/" target="_blank"><b>Tong Chong Street Market</b></a>, co-presented with Swire Properties, and in 2017, Honestly Green launched <b>Poho Market</b>.<br>
+<br></div>
+The markets grew from her 2012 project, Island East Markets, which was the largest urban farmers' &nbsp;market in the city, and showcased artisanal products that were locally and responsibly made and grown.<br></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
