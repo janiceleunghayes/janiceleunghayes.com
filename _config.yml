@@ -5,13 +5,8 @@ email: janiceleunghayes@gmail.com
 description: Janice Leung Hayes is an independent food writer and social entrepreneur with a deep love of food - its sources, makers, sellers and eaters.
 baseurl: "/janiceleunghayes.net" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Janice Leung
+
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
