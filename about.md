@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Tong Chong Street Market</h3>
 				</header>
-				<p>Under her food sustainability platform&nbsp;<a href="http://honestlygreen.hk/" target="_blank"><b>Honestly Green<b></a>, in late 2015, she launched a food-focused farmers market,&nbsp;<a href="http://tongchongstreetmarket.com/" target="_blank"><b>Tong Chong Street Market</b></a>, co-presented with Swire Properties, and in 2017, Honestly Green launched <b>Poho Market</b>.<br>
+				<p>Under her food sustainability platform&nbsp;<a href="http://honestlygreen.hk/" target="_blank"><b>Honestly Green</b></a>, in late 2015, she launched a food-focused farmers market,&nbsp;<a href="http://tongchongstreetmarket.com/" target="_blank"><b>Tong Chong Street Market</b></a>, co-presented with Swire Properties, and in 2017, Honestly Green launched <b>Poho Market</b>.<br>
 <br>
 The markets grew from her 2012 project, Island East Markets, which was the largest urban farmers' &nbsp;market in the city, and showcased artisanal products that were locally and responsibly made and grown.<br></p>
 				
