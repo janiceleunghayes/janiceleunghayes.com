@@ -7,7 +7,6 @@ image: null
 author: null
 ---
 
-#Janice who?
 Janice Leung Hayes is an independent food writer and social entrepreneur with a deep love of food - its sources, makers, sellers and eaters.
 
 Her written work can be found in publications such as the South China Morning Post, AFAR, New York Times, Monocle, Wall Street Journal, Australian Gourmet Traveller, Discovery Magazine (Cathay Pacific), eater.com, and more. She started her career in food writing first at a community magazine in Melbourne, then in Hong Kong at LUXE City Guides.
