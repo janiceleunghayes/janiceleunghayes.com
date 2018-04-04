@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Ipsum dolor sit amet
+description: Janice Who?
 image: assets/images/pic12.jpg
 nav-menu: true
 ---
