@@ -3,6 +3,7 @@ layout: page
 title: About
 description: Ipsum dolor sit amet
 image: assets/images/pic12.jpg
+nav-menu: true
 ---
 
 <!-- Main -->
