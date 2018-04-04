@@ -6,7 +6,12 @@ description: Janice Leung Hayes is an independent food writer and social entrepr
 baseurl: "/janiceleunghayes.net" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Janice Leung
-
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone: 
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
