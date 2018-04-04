@@ -1,9 +1,9 @@
 ---
 title: About
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+layout: page
+description: 'Description'
 image: assets/images/pic07.jpg
-nav-menu: false
+nav-menu: true
 ---
 
 <!-- Main -->
