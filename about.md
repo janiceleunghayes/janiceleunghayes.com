@@ -14,6 +14,7 @@ nav-menu: true
 	<div class="inner">
 		<header class="major">
 			<h2>Janice Who?</h2>
+			</header>
 		<p>Her written work can be found in publications such as the South China Morning Post, AFAR, New York Times, Monocle, Wall Street Journal, Australian Gourmet Traveller, Discovery Magazine (Cathay Pacific), eater.com, and more. She started her career in food writing first at a community magazine in Melbourne, then in Hong Kong at LUXE City Guides.</p>
 	</div>
 </section>
