@@ -1,7 +1,7 @@
 # site settings
 title: Janice Leun Hayes
 subtitle: JANICE LEUNG writer, editor, eater, traveller
-email: janiceleunghayes :at: gmail :dot: com
+email: janiceleunghayes@gmail.com
 description: Janice Leung Hayes is an independent food writer and social entrepreneur with a deep love of food - its sources, makers, sellers and eaters.
 baseurl: "/janiceleunghayes.net" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
