@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: Ipsum dolor sit amet
-image: assets/images/pic01.jpg
+image: assets/images/pic12.jpg
 ---
 
 <!-- Main -->
