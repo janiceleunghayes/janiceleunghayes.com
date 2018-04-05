@@ -88,14 +88,14 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 <li>Foodpanda, <a href="http://magazine.foodpanda.hk/latest-top-50-hong-kong-bloggers-revealed-in-foodpanda-magazine/" target="_blank">50 Hottest Bloggers</a>, August 2016.<br /></li>
 <li>The Initium 端傳媒, <a href="https://theinitium.com/article/20160616-city-foodandbeverage-yenn-wong/#" target="_blank">香港餐飲界的弄潮兒</a>, June 2016.<br /></li>
 <li>Forbes, <a href="http://www.forbes.com/sites/nanhiein/2016/01/12/h-k-food-and-restaurant-trends-to-watch-out-for-in-2016/#14a338854a12" target="_blank">2016 Hong Kong Food and Restaurant Trends</a>, January 2016<br /></li>
-Hong Kong Tatler, The Food Issue &amp;&nbsp;<a href="http://hk.dining.asiatatler.com/features/tatlertable-janice-leung-hayes#slide-1" target="_blank">#TatlerTable</a>, November 2015.<br />
-South China Morning Post - <a href="http://www.scmp.com/video/hong-kong/1694200/food-dreams-struggle-make-it-hong-kongs-super-competitive-restaurant-market" target="_blank">Food Dreams - The struggle to make it in Hong Kong's super-competitive restaurant market</a> [video], January 2015.<br />
-<a href="http://www.falstaff.at/nc/news/newsartikel/hongkong-die-kulinarik-szene-erfindet-sich-neu-7727.html" target="_blank">Falstaff</a>&nbsp;(Austria), February 2014.<br />
-<a href="http://nymag.com/travel/features/hong-kong-restaurants-2013-2/" target="_blank">New York Magazine</a>, February 2013.<br />
-Jing Daily,&nbsp;<a href="http://www.jingdaily.com/this-isjanice-leung/21473/" target="_blank">10 Minutes With...</a>, October 2012.<br />
-Sassy Hong Kong,&nbsp;<a href="http://sassyhongkong.com/that-girl-janice-leung-food-blogger-queen-co-founder-of-island-east-markets/" target="_blank">That Girl</a>, September 2012.<br />
-Time Out Hong Kong,&nbsp;<a href="http://www.timeout.com.hk/restaurants-bars/features/50257/20-people-changing-the-way-we-eat-and-drink.html" target="_blank">20 People Changing the Way You Eat and Drink</a>, April 2012.<br />
-Bloomberg Businessweek,&nbsp;<a href="http://www.businessweek.com/articles/2012-03-19/the-secret-world-of-hong-kongs-private-kitchens#p1" target="_blank">The Secret World of Hong Kong's Private Kitchens</a>, March 2012.<br />
+<li>Hong Kong Tatler, The Food Issue &amp;&nbsp;<a href="http://hk.dining.asiatatler.com/features/tatlertable-janice-leung-hayes#slide-1" target="_blank">#TatlerTable</a>, November 2015.<br /></li>
+<li>South China Morning Post - <a href="http://www.scmp.com/video/hong-kong/1694200/food-dreams-struggle-make-it-hong-kongs-super-competitive-restaurant-market" target="_blank">Food Dreams - The struggle to make it in Hong Kong's super-competitive restaurant market</a> [video], January 2015.<br /></li>
+<li><a href="http://www.falstaff.at/nc/news/newsartikel/hongkong-die-kulinarik-szene-erfindet-sich-neu-7727.html" target="_blank">Falstaff</a>&nbsp;(Austria), February 2014.<br /></li>
+<li><a href="http://nymag.com/travel/features/hong-kong-restaurants-2013-2/" target="_blank">New York Magazine</a>, February 2013.<br /></li>
+<li>Jing Daily,&nbsp;<a href="http://www.jingdaily.com/this-isjanice-leung/21473/" target="_blank">10 Minutes With...</a>, October 2012.<br /></>
+<li>Sassy Hong Kong,&nbsp;<a href="http://sassyhongkong.com/that-girl-janice-leung-food-blogger-queen-co-founder-of-island-east-markets/" target="_blank">That Girl</a>, September 2012.<br /></li>
+<li>Time Out Hong Kong,&nbsp;<a href="http://www.timeout.com.hk/restaurants-bars/features/50257/20-people-changing-the-way-we-eat-and-drink.html" target="_blank">20 People Changing the Way You Eat and Drink</a>, April 2012.<br /></li>
+<li>Bloomberg Businessweek,&nbsp;<a href="http://www.businessweek.com/articles/2012-03-19/the-secret-world-of-hong-kongs-private-kitchens#p1" target="_blank">The Secret World of Hong Kong's Private Kitchens</a>, March 2012.<br /></li>
 </ul></p>
 	</div>
 	<div class="6u$ 12u$(small)">
