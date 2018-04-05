@@ -99,8 +99,19 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 </ul></p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Audio/Visual</h3>
+		<p><ul class="alt"><li><a href="https://monocle.com/radio/shows/the-menu/food-neighbourhoods-1/" target="_blank">The Menu</a>, Monocle Radio, September 2016.<br /></li>
+<li>Hungry Foodies, TVB J2, June 2016.<br />/li>
+<li><a href="http://www.foodblogradio.com/janice-leung-hayes-of-e_tingfood-com/" target="_blank">Food Blog Radio</a>, February 2016.<br /></li>
+<li><a href="http://programme.rthk.hk/channel/radio/programme.php?name=radio1/food_from_the_earth&amp;d=2015-12-12&amp;p=6521&amp;e=336771&amp;m=episode" target="_blank">自然好味</a>, RTHK, December 2015.<br /></li>
+<li>National Geographic Channel (FOX)&nbsp;<a href="https://instagram.com/p/zjhXWkBQC_/?modal=true" target="_blank">THINK FOOD Campaign PSA</a>&nbsp;[video], February 2015.<br /></li>
+<li><a href="http://empire-hk.com/empire-tv/" target="_blank">The Sizzle and Fry Show</a>, co-host, 2014.<br /></li>
+<li><a href="http://www.tlcasia.com/tv-shows/the-flying-winemaker/" target="_blank">The Flying Winemaker</a>, Episode 1 (TLC), 2014.<br /></li>
+<li><a href="https://youtu.be/Ooah1SN03hM" target="_blank">The Pearl Report</a>, TVB Pearl, December 2014
+Australian Broadcasting Association (ABC), AusBiz Asia Episode 3, June 2014.</li>
+<li>Asia's 50 Best Restaurants [videos],&nbsp;<a href="http://youtu.be/VFb3AgfDso0" target="_blank">Hong Kong Dining</a>,&nbsp;<a href="http://www.youtube.com/watch?v=Yz7wwxkuoPc&amp;list=FLOJ2ssKPYpOHhkeQK5hA9uQ&amp;feature=share" target="_blank">Asia's 50 Best Restaurants</a>, Jan 2014.</li>
+<li><a href="http://www.litvchannel.com/themaverickchef/episodes/" target="_blank">The Maverick Chef</a>, LiTV, December 2011.<br /></li>
+<br /></ul></p>
 	</div>
 		</div>
 	</div>
