@@ -54,7 +54,9 @@ I look forward to hearing from you.<br />
 				{% endif %}
 			</ul></p>
 	</div>
+	</div>
 </section>
+
 
 
 </div>
