@@ -63,6 +63,7 @@ nav-menu: true
 <li>Legends - <a href="http://www.scmp.com/lifestyle/food-wine/article/1129426/legends-two-stories-behind-xiaolongbao#comments" target="_blank">Two stories behind xiaolongbao</a></li>
 <li><a href="https://docs.google.com/open?id=0B56_9hXpqnobUDVsdGlTa0M5YXM" target="_blank">Norse code</a>&nbsp;- Nordic cuisine in the eyes of Rasmus Kofoed, gold medalist, Bocuse d'Or 2011 and chef and restaurateur at Geranium, Copenhagen&nbsp;</li>
 <li><a href="http://www.scmp.com/article/996536/jean-charles-cazes" target="_blank">Q&amp;A: Jean-Charles Cazes</a></li>
+</ul>
 </div>
 <div class ="4u 12u$(medium)">
 <ul class="alt">
