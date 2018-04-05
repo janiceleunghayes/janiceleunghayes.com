@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="assets/images/pic12.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -38,7 +38,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -51,7 +51,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a class="image">
 			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
@@ -72,6 +72,23 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 			<h2>Education</h2>
 		</header>
 		<p>She is a graduate of the University of Melbourne, and also holds a WSET Advanced (Level 3) Certificate, which just means she is serious about enjoying a tipple.<br /></p>
+	</div>
+</section>
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>Selected Mentions and Appearences</h2>
+		</header>
+		<div class="row">
+			<div class="6u 12u$(small)">
+		<h3>Sem turpis amet semper</h3>
+		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+	</div>
+	<div class="6u$ 12u$(small)">
+		<h3>Magna odio tempus commodo</h3>
+		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+	</div>
+		</div>
 	</div>
 </section>
 
