@@ -26,8 +26,12 @@ nav-menu: true
 <h4>New York Times</h4>
 <li><a href="http://www.nytimes.com/interactive/2015/02/18/travel/In-Asia-Tastes-of-the-Sea.html?ref=travel" target="_blank">In Asia, Tastes of the Sea</a>&nbsp;(Hong Kong section)</li>
 <h4>Hong Kong Tatler Dining</h4>
+<li><a href="http://hk.dining.asiatatler.com/features/why-tbilisi-should-be-your-next-destination-for-food-and-wine#slide-1" target="_blank">Why Tbilisi should be your next destination for food and wine</a></li>
+<li>Dining reviews, e.g.&nbsp;<a href="http://hk.dining.asiatatler.com/restaurants/yee-tung-he42" target="_blank">Man Wah</a>,&nbsp;<a href="http://hk.dining.asiatatler.com/restaurants/tim-s-kitchen-elements" target="_blank">Tim's Kitchen</a></li>
 <h4>Travel and Leisure(US)</h4>
+<li><a href="http://www.travelandleisure.com/slideshows/tls-best-new-restaurants-2015-edition/7" target="_blank">The Best New Restaurants (Hong Kong section)</a></li>
 <h4>Australian Gourmet Traveller</h4>
+<li><a href="http://www.gourmettraveller.com.au/the-disappearing-dishes-of-hong-kong.htm" target="_blank">The Disappearing Dishes of Hong Kong</a></li>
 </ul>
 </div>
 <div class="4u 12u$(medium)">
