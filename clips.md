@@ -20,6 +20,7 @@ nav-menu: true
 <div class="4u 12u$(medium)">
 <ul class="alt">
 <h4>Eater</h4>
+<li><a href="http://www.eater.com/maps/best-hong-kong-restaurants" target="_blank">The 38 Essential Hong Kong Restaurants</a></i></li>
 <h4>New York Times</h4>
 <h4>Hong Kong Tatler Dining</h4>
 <h4>Travel and Leisure(US)</h4>
