@@ -4,6 +4,7 @@ title: Clips
 description: Selected Clips
 image: assets/images/pic13.png
 nav-menu: true
+tile: true
 ---
 
 <!-- Main -->
