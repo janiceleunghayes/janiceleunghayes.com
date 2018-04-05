@@ -4,6 +4,7 @@ title: Books
 description: Books
 image: assets/images/pic12.jpg
 nav-menu: true
+tile: true
 ---
 
 <!-- Main -->
