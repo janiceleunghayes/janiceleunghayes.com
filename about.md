@@ -101,7 +101,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 	<div class="6u$ 12u$(small)">
 		<h3>Audio/Visual</h3>
 		<p><ul class="alt"><li><a href="https://monocle.com/radio/shows/the-menu/food-neighbourhoods-1/" target="_blank">The Menu</a>, Monocle Radio, September 2016.<br /></li>
-<li>Hungry Foodies, TVB J2, June 2016.<br />/li>
+<li>Hungry Foodies, TVB J2, June 2016.<br /></li>
 <li><a href="http://www.foodblogradio.com/janice-leung-hayes-of-e_tingfood-com/" target="_blank">Food Blog Radio</a>, February 2016.<br /></li>
 <li><a href="http://programme.rthk.hk/channel/radio/programme.php?name=radio1/food_from_the_earth&amp;d=2015-12-12&amp;p=6521&amp;e=336771&amp;m=episode" target="_blank">自然好味</a>, RTHK, December 2015.<br /></li>
 <li>National Geographic Channel (FOX)&nbsp;<a href="https://instagram.com/p/zjhXWkBQC_/?modal=true" target="_blank">THINK FOOD Campaign PSA</a>&nbsp;[video], February 2015.<br /></li>
