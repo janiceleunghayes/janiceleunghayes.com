@@ -49,7 +49,7 @@ nav-menu: true
 <li>On Our Shelves - <a href="http://www.scmp.com/magazines/post-magazine/food-drink/article/2088930/we-take-peek-inside-top-hong-kong-italian-chef" target="_blank">Umberto Bombana</a></li>
 </ul>
 </div>
-<div class="4u 12u$(medium)">
+<div class="4u 12u$(small)">
 <ul class="alt">
 <h4>South China Morning Post</h4>
 <li><a href="http://www.scmp.com/lifestyle/food-drink/article/2005518/hong-kong-chefs-and-food-impresarios-making-their-mark-globally" target="_blank">Hong Kong restaurateurs making their mark on the world</a></li>
