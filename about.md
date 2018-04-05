@@ -80,7 +80,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 			<h2>Selected Mentions and Appearences</h2>
 		</header>
 		<div class="row">
-			<div class="6u 12u$(small)">
+			<div class="4u 12u$(medium)">
 		<h3>Articles</h3>
 		
 		<p><ul class="alt"><li>Hong Kong Tatler, <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank">Generation T: The Names Disrupting The Dining Scene In Hong Kong</a>, June 2017.<br /></li>
@@ -98,7 +98,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 <li>Bloomberg Businessweek,&nbsp;<a href="http://www.businessweek.com/articles/2012-03-19/the-secret-world-of-hong-kongs-private-kitchens#p1" target="_blank">The Secret World of Hong Kong's Private Kitchens</a>, March 2012.<br /></li>
 </ul></p>
 	</div>
-	<div class="6u$ 12u$(small)">
+	<div class="4u 12u$(medium)">
 		<h3>Audio/Visual</h3>
 		<p><ul class="alt"><li><a href="https://monocle.com/radio/shows/the-menu/food-neighbourhoods-1/" target="_blank">The Menu</a>, Monocle Radio, September 2016.<br /></li>
 <li>Hungry Foodies, TVB J2, June 2016.<br /></li>
@@ -112,7 +112,7 @@ Australian Broadcasting Association (ABC), AusBiz Asia Episode 3, June 2014.</li
 <li>Asia's 50 Best Restaurants [videos],&nbsp;<a href="http://youtu.be/VFb3AgfDso0" target="_blank">Hong Kong Dining</a>,&nbsp;<a href="http://www.youtube.com/watch?v=Yz7wwxkuoPc&amp;list=FLOJ2ssKPYpOHhkeQK5hA9uQ&amp;feature=share" target="_blank">Asia's 50 Best Restaurants</a>, Jan 2014.</li>
 <li><a href="http://www.litvchannel.com/themaverickchef/episodes/" target="_blank">The Maverick Chef</a>, LiTV, December 2011.<br /></li>
 <br /></ul></p></div>
-<div class="6u$ 12u$(small)">
+<div class="4u 12u$(medium)">
 		<h3>Panels/Talks</h3>
 		<p><ul class="alt"><li>Tatler Table, Taste of Hong Kong, March 2017.</li>
 <li>TEDxHong Kong, November 2016</li>
