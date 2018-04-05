@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Books</h2>
 			</header>
-		<p<b><a href="https://monocle.com/shop/books-and-music/travel-guides/the-monocle-travel-guide-hong-kong/" target="_blank">Monocle Hong Kong Travel Guide</a></b><br />
+		<p><b><a href="https://monocle.com/shop/books-and-music/travel-guides/the-monocle-travel-guide-hong-kong/" target="_blank">Monocle Hong Kong Travel Guide</a></b><br />
 <b><i>Contributing Writer</i></b><br />
 <br />
 <b>Where to Eat Pizza (published by Phaidon)</b><br />
