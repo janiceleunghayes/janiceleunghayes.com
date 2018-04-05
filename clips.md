@@ -2,7 +2,7 @@
 layout: page
 title: Clips
 description: Selected Clips
-image: assets/images/pic12.jpg
+image: assets/images/pic13.png
 nav-menu: true
 ---
 
