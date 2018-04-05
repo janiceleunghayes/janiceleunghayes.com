@@ -47,8 +47,10 @@ nav-menu: true
 <li>Q&amp;A - <a href="http://www.scmp.com/magazines/post-magazine/food-drink/article/2019321/why-legendary-tokyo-bars-mixologist-owner-doesnt" target="_blank">Hidetsugu Ueno, Bar High Five</a></li>
 <li>Made in Hong Kong - <a href="http://www.scmp.com/magazines/post-magazine/food-drink/article/1989745/husband-and-wife-behind-hong-kong-craft-beer" target="_blank">Nectar of the Gods: Moonzen</a></li>
 <li>On Our Shelves - <a href="http://www.scmp.com/magazines/post-magazine/food-drink/article/2088930/we-take-peek-inside-top-hong-kong-italian-chef" target="_blank">Umberto Bombana</a></li>
+</ul>
 </div>
 <div class="4u 12u$(medium)">
+<ul class="alt">
 <h4>South China Morning Post</h4>
 <li><a href="http://www.scmp.com/lifestyle/food-drink/article/2005518/hong-kong-chefs-and-food-impresarios-making-their-mark-globally" target="_blank">Hong Kong restaurateurs making their mark on the world</a></li>
 <li><a href="http://www.scmp.com/lifestyle/food-drink/article/1982642/hong-kong-drinkers-get-ready-awamori-invasion-okinawa" target="_blank">All about awamori</a>, Okinawa's unique spirit</li>
