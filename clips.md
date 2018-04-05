@@ -20,7 +20,7 @@ nav-menu: true
 <div class="4u 12u$(medium)">
 <ul class="alt">
 <h4>Eater</h4>
-<li><a href="http://www.eater.com/maps/best-hong-kong-restaurants" target="_blank">The 38 Essential Hong Kong Restaurants</a></i></li>
+<li><a href="http://www.eater.com/maps/best-hong-kong-restaurants" target="_blank">The 38 Essential Hong Kong Restaurants</a></li>
 <li>Eater Explains:&nbsp;<a href="https://www.eater.com/2017/7/7/15928320/hong-kong-bubble-waffle-egglet-gai-daan-zai-ice-cream" target="_blank">All About Hong Kong's "Bubble Waffle"</a></li>
 <li><i>Eater Hong Kong Heat Map</i>, eater.com,&nbsp;<a href="http://eater.com/archives/2012/01/09/the-eater-hong-kong-heat-map-where-to-eat-right-now.php" target="_blank">January 2012</a>&nbsp;to&nbsp;<a href="http://www.eater.com/maps/best-new-restaurants-hong-kong" target="_blank">March 2016</a>&nbsp;(ongoing)</li>
 <h4>New York Times</h4>
