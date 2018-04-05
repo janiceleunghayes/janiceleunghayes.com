@@ -84,10 +84,10 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 		<h3>Articles</h3>
 		
 		<p><ul class="alt"><li>Hong Kong Tatler, <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank">Generation T: The Names Disrupting The Dining Scene In Hong Kong</a>, June 2017.<br /></li>
-Lifestyle Asia, <a href="http://www.lifestyleasia.com/478967/20-hong-kong-foodies-to-follow-on-instagram/" target="_blank">20 foodies to follow on Instagram</a>, August 2016.<br />
-Foodpanda, <a href="http://magazine.foodpanda.hk/latest-top-50-hong-kong-bloggers-revealed-in-foodpanda-magazine/" target="_blank">50 Hottest Bloggers</a>, August 2016.<br />
-The Initium 端傳媒, <a href="https://theinitium.com/article/20160616-city-foodandbeverage-yenn-wong/#" target="_blank">香港餐飲界的弄潮兒</a>, June 2016.<br />
-Forbes, <a href="http://www.forbes.com/sites/nanhiein/2016/01/12/h-k-food-and-restaurant-trends-to-watch-out-for-in-2016/#14a338854a12" target="_blank">2016 Hong Kong Food and Restaurant Trends</a>, January 2016<br />
+<li>Lifestyle Asia, <a href="http://www.lifestyleasia.com/478967/20-hong-kong-foodies-to-follow-on-instagram/" target="_blank">20 foodies to follow on Instagram</a>, August 2016.<br /></li>
+<li>Foodpanda, <a href="http://magazine.foodpanda.hk/latest-top-50-hong-kong-bloggers-revealed-in-foodpanda-magazine/" target="_blank">50 Hottest Bloggers</a>, August 2016.<br /></li>
+<li>The Initium 端傳媒, <a href="https://theinitium.com/article/20160616-city-foodandbeverage-yenn-wong/#" target="_blank">香港餐飲界的弄潮兒</a>, June 2016.<br /></li>
+<li>Forbes, <a href="http://www.forbes.com/sites/nanhiein/2016/01/12/h-k-food-and-restaurant-trends-to-watch-out-for-in-2016/#14a338854a12" target="_blank">2016 Hong Kong Food and Restaurant Trends</a>, January 2016<br /></li>
 Hong Kong Tatler, The Food Issue &amp;&nbsp;<a href="http://hk.dining.asiatatler.com/features/tatlertable-janice-leung-hayes#slide-1" target="_blank">#TatlerTable</a>, November 2015.<br />
 South China Morning Post - <a href="http://www.scmp.com/video/hong-kong/1694200/food-dreams-struggle-make-it-hong-kongs-super-competitive-restaurant-market" target="_blank">Food Dreams - The struggle to make it in Hong Kong's super-competitive restaurant market</a> [video], January 2015.<br />
 <a href="http://www.falstaff.at/nc/news/newsartikel/hongkong-die-kulinarik-szene-erfindet-sich-neu-7727.html" target="_blank">Falstaff</a>&nbsp;(Austria), February 2014.<br />
