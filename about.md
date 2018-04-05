@@ -82,7 +82,8 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 		<div class="row">
 			<div class="6u 12u$(small)">
 		<h3>Articles</h3>
-		<p>Hong Kong Tatler, <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank">Generation T: The Names Disrupting The Dining Scene In Hong Kong</a>, June 2017.<br />
+		
+		<p><ul><li>Hong Kong Tatler, <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank">Generation T: The Names Disrupting The Dining Scene In Hong Kong</a>, June 2017.<br /></li>
 Lifestyle Asia, <a href="http://www.lifestyleasia.com/478967/20-hong-kong-foodies-to-follow-on-instagram/" target="_blank">20 foodies to follow on Instagram</a>, August 2016.<br />
 Foodpanda, <a href="http://magazine.foodpanda.hk/latest-top-50-hong-kong-bloggers-revealed-in-foodpanda-magazine/" target="_blank">50 Hottest Bloggers</a>, August 2016.<br />
 The Initium 端傳媒, <a href="https://theinitium.com/article/20160616-city-foodandbeverage-yenn-wong/#" target="_blank">香港餐飲界的弄潮兒</a>, June 2016.<br />
@@ -95,7 +96,7 @@ Jing Daily,&nbsp;<a href="http://www.jingdaily.com/this-isjanice-leung/21473/" t
 Sassy Hong Kong,&nbsp;<a href="http://sassyhongkong.com/that-girl-janice-leung-food-blogger-queen-co-founder-of-island-east-markets/" target="_blank">That Girl</a>, September 2012.<br />
 Time Out Hong Kong,&nbsp;<a href="http://www.timeout.com.hk/restaurants-bars/features/50257/20-people-changing-the-way-we-eat-and-drink.html" target="_blank">20 People Changing the Way You Eat and Drink</a>, April 2012.<br />
 Bloomberg Businessweek,&nbsp;<a href="http://www.businessweek.com/articles/2012-03-19/the-secret-world-of-hong-kongs-private-kitchens#p1" target="_blank">The Secret World of Hong Kong's Private Kitchens</a>, March 2012.<br />
-</p>
+</ul></p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
