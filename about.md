@@ -46,7 +46,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 				<header class="major">
 					<h3>"Inspiring Homegrown Entrepreneur"</h3>
 				</header>
-				<p>For her efforts towards food sustainability, she was named <blockquote>"Inspiring Homegrown Entrepreneur"</blockquote> in the inaugural <b>Women of Hope</b> awards and made part of <b>Generation T</b> by <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank">Hong Kong Tatler</a>.<br /></p>
+				<p>For her efforts towards food sustainability, she was named <blockquote>"Inspiring Homegrown Entrepreneur"</blockquote> in the inaugural <b>Women of Hope</b> awards and made part of <b>Generation T</b> by <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank"><b>Hong Kong Tatler</b></a>.<br /></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
