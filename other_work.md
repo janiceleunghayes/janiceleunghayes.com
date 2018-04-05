@@ -49,9 +49,9 @@ The Jade and the Pearl, Hong Kong, 2010 (subtitling)<br />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>"Inspiring Homegrown Entrepreneur"</h3>
+					<h3>Video</h3>
 				</header>
-				<p>For her efforts towards food sustainability, she was named <blockquote>"Inspiring Homegrown Entrepreneur"</blockquote> in the inaugural <b>Women of Hope</b> awards and made part of <b>Generation T</b> by <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank"><b>Hong Kong Tatler</b></a>.<br /></p>
+				<p><a href="https://www.youtube.com/user/SizzleAndFryShow" target="_blank">Sizzle and Fry Show</a>&nbsp;(host), 2014<br /></p>
 			</div>
 		</div>
 	</section>
