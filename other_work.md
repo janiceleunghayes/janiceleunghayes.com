@@ -4,6 +4,7 @@ title: Other Work
 description: Other roles and Projects
 image: assets/images/pic12.jpg
 nav-menu: true
+tile: true
 ---
 
 <!-- Main -->
