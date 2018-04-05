@@ -24,12 +24,25 @@ nav-menu: true
 <h4>Hong Kong Tatler Dining</h4>
 <h4>Travel and Leisure(US)</h4>
 <h4>Australian Gourmet Traveller</h4>
-
 </ul>
 </div>
 <div class="4u 12u$(medium)">
+<ul class="alt">
+<h4>AFAR</h4>
+<h4>Michelin Guide</h4>
+<h4>Post Magazine(South China Morning Post)</h4>
+<h4>South China Morning Post</h4>
+<h4>Monocle</h4>
+</ul>
 </div>
 <div class="4u 12u$(medium)">
+<ul class="alt">
+<h4>Discovery Magazine(Cathay Dragon)</h4>
+<h4>Silkroad (Cathay Dragon)</h4>
+<h4>Wall Street Journal</h4>
+<h4>NineMSN</h4>
+<h4>Marc & Chantal Insights</h4>
+</ul>
 </div>
 </div>
 		</p>
