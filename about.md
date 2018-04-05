@@ -60,9 +60,6 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 					<h3>Bevarage awards, lists and guides</h3>
 				</header>
 				<p>Janice judges and contributes to major local and international food &amp; beverage awards, lists and guides, and speaks and moderates on panels regarding the food &amp; beverage industry, sustainability, lifestyle media and social entrepreneurship. As senior director of&nbsp;<a href="http://www.littleadventuresinhongkong.com/" target="_blank"><b>Little Adventures in Hong Kong</b></a>, she designs and leads custom food and culture experiences.<br /></p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
@@ -75,9 +72,6 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 			<h2>Education</h2>
 		</header>
 		<p>She is a graduate of the University of Melbourne, and also holds a WSET Advanced (Level 3) Certificate, which just means she is serious about enjoying a tipple.<br /></p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
 	</div>
 </section>
 
