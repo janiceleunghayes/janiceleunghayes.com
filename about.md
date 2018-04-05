@@ -46,10 +46,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 				<header class="major">
 					<h3>"Inspiring Homegrown Entrepreneur"</h3>
 				</header>
-				<p>For her efforts towards food sustainability, she was named "Inspiring Homegrown Entrepreneur" in the inaugural <b>Women of Hope</b> awards and made part of <b>Generation T</b> by <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank">Hong Kong Tatler</a>.<br />
-<br />
-Janice judges and contributes to major local and international food &amp; beverage awards, lists and guides, and speaks and moderates on panels regarding the food &amp; beverage industry, sustainability, lifestyle media and social entrepreneurship. As senior director of&nbsp;<a href="http://www.littleadventuresinhongkong.com/" target="_blank"><b>Little Adventures in Hong Kong</b></a>, she designs and leads custom food and culture experiences.<br />
-<br /></p>
+				<p>For her efforts towards food sustainability, she was named <blockquote>"Inspiring Homegrown Entrepreneur"</blockquote> in the inaugural <b>Women of Hope</b> awards and made part of <b>Generation T</b> by <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank">Hong Kong Tatler</a>.<br /></p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
