@@ -56,14 +56,4 @@ The Jade and the Pearl, Hong Kong, 2010 (subtitling)<br />
 		</div>
 	</section>
 </section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Education</h2>
-		</header>
-		<p>She is a graduate of the University of Melbourne, and also holds a WSET Advanced (Level 3) Certificate, which just means she is serious about enjoying a tipple.<br /></p>
-	</div>
-</section>
 </div>
