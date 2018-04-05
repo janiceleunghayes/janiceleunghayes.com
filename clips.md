@@ -37,19 +37,51 @@ nav-menu: true
 <div class="4u 12u$(medium)">
 <ul class="alt">
 <h4>AFAR</h4>
+<li><a href="https://www.afar.com/magazine/beyond-tokyo-exploring-okinawa-the-hawaii-of-japan" target="_blank">Beyond Tokyo: Exploring Okinawa, the Hawaii of Japan</a></li>
+<li><a href="http://www.afar.com/travel-tips/how-to-eat-along-hong-kongs-subway-stops" target="_blank">How to Eat Along Hong Kong's Subway Stops</a></li>
+<li><a href="http://www.afar.com/magazine/meet-the-mastermind-behind-hong-kongs-hottest-restaurants" target="_blank">Meet the Mastermind Behind Hong Kong's Hottest Restaurants</a></li>
 <h4>Michelin Guide</h4>
+<li><a href="https://guide.michelin.sg/the-first-day-i-got-my-michelin-stars-chan-yan-tak-of-lung-king-heen" target="_blank">The First Day I Got My Michelin Stars: Chan Yan-Tak of Lung King Heen</a></li>
 <h4>Post Magazine(South China Morning Post)</h4>
+<li>Culinary Journeys - Chinese influence on <a href="http://www.scmp.com/magazines/post-magazine/food-drink/article/2005548/why-some-nagasakis-iconic-dishes-have-chinese" target="_blank">Nagasaki's champon and shippoku</a></li>
+<li>Q&amp;A - <a href="http://www.scmp.com/magazines/post-magazine/food-drink/article/2019321/why-legendary-tokyo-bars-mixologist-owner-doesnt" target="_blank">Hidetsugu Ueno, Bar High Five</a></li>
+<li>Made in Hong Kong - <a href="http://www.scmp.com/magazines/post-magazine/food-drink/article/1989745/husband-and-wife-behind-hong-kong-craft-beer" target="_blank">Nectar of the Gods: Moonzen</a></li>
+<li>On Our Shelves - <a href="http://www.scmp.com/magazines/post-magazine/food-drink/article/2088930/we-take-peek-inside-top-hong-kong-italian-chef" target="_blank">Umberto Bombana</a></li>
 <h4>South China Morning Post</h4>
+<li><a href="http://www.scmp.com/lifestyle/food-drink/article/2005518/hong-kong-chefs-and-food-impresarios-making-their-mark-globally" target="_blank">Hong Kong restaurateurs making their mark on the world</a></li>
+<li><a href="http://www.scmp.com/lifestyle/food-drink/article/1982642/hong-kong-drinkers-get-ready-awamori-invasion-okinawa" target="_blank">All about awamori</a>, Okinawa's unique spirit</li>
+<li><a href="http://www.scmp.com/lifestyle/food-drink/article/1967913/rice-growing-hong-kong-gets-fresh-start-lantau-island" target="_blank">Rice growing in Hong Kong gets a fresh start in Lantau Island</a></li>
+<li><a href="http://multimedia.scmp.com/wonton-noodles/" target="_blank">Deconstructing wonton noodles</a>&nbsp;</li>
+<li><a href="http://www.scmp.com/lifestyle/food-drink/article/1863217/two-sisters-open-hong-kongs-first-bean-bar-chocolate-factory" target="_blank">Bean Me Up</a>&nbsp;- Hong Kong's first bean-to-bar chocolate makers</li>
+<li>Snack Time -&nbsp;<a href="http://www.scmp.com/magazines/48-hours/article/1809090/get-miniature-bowl-wonton-noodles-chee-kei" target="_blank">Chee Kei's "sai yung"</a></li>
+<li><a href="http://www.scmp.com/magazines/48hrs/article/1483697/hong-kong-restaurants-turning-toward-sustainable-organic-fare" target="_blank">Rise of the Fresh Eaters</a>&nbsp;- Sustainable fine dining in Hong Kong</li>
+<li><a href="http://www.scmp.com/magazines/48hrs/article/1334610/take-it-mat" target="_blank">Take it to the Mat&nbsp;</a>- Craft beer on the rise in Hong Kong</li>
+<li><a href="http://www.scmp.com/magazines/48hrs/article/1250599/pop-restaurants-brief-history" target="_blank">Brief Encounters</a>&nbsp;- Pop-up restaurants in Hong Kong, a fad or the future?</li>
+<li><a href="http://www.scmp.com/magazines/48hrs/article/1226664/dough-it-yourself" target="_blank">Dough it Yourself</a>&nbsp;- Charities supplementing traditional donation income by running their own food businesses</li>
+<li>25 plus column (over 25 years old) -&nbsp;<a href="http://www.scmp.com/magazines/48hrs/article/1213189/sauce-code" target="_blank">Kowloon Soy Company</a>,&nbsp;<a href="http://www.scmp.com/magazines/48hrs/article/1223888/dai-pai-dongs-history-rich-its-tomato-broth" target="_blank">Sing Heung Yuen dai pai dong</a>, <a href="http://www.scmp.com/magazines/48hrs/article/1324507/la-taverna-hong-kongs-oldest-italian-restaurant-has-kept-its-rustic" target="_blank">La Taverna</a> (Hong Kong's oldest Italian restaurant)</li>
+<li><a href="http://www.scmp.com/lifestyle/food-wine/article/1103718/feast-meets-west-hong-kong">Open to Persuasion</a>&nbsp;- Chinese chefs with overseas exposure breaking down the boundaries of Cantonese cuisine</li>
+<li>Legends - <a href="http://www.scmp.com/lifestyle/food-wine/article/1129426/legends-two-stories-behind-xiaolongbao#comments" target="_blank">Two stories behind xiaolongbao</a></li>
+<li><a href="https://docs.google.com/open?id=0B56_9hXpqnobUDVsdGlTa0M5YXM" target="_blank">Norse code</a>&nbsp;- Nordic cuisine in the eyes of Rasmus Kofoed, gold medalist, Bocuse d'Or 2011 and chef and restaurateur at Geranium, Copenhagen&nbsp;</li>
+<li><a href="http://www.scmp.com/article/996536/jean-charles-cazes" style="background-color: white;" target="_blank">Q&amp;A: Jean-Charles Cazes</a></li>
 <h4>Monocle</h4>
+<li><a href="https://monocle.com/radio/shows/the-menu/food-neighbourhoods-1/" target="_blank">The Menu, Food Neighbourhoods #1</a>&nbsp;(radio)</li>
+<li><a href="http://monocle.com/radio/shows/the-urbanist/113/" target="_blank">The Urbanist, episode 113</a> (radio, closing segment on Shoe Artistry, 41:49)</li>
 </ul>
 </div>
 <div class="4u 12u$(medium)">
 <ul class="alt">
 <h4>Discovery Magazine(Cathay Dragon)</h4>
+<li><a href="http://discovery.cathaypacific.com/hong-kongish-lost-treasures/" target="_blank">Lost Treasure - Hong Kong's Local Seafood</a></li>
 <h4>Silkroad (Cathay Dragon)</h4>
+<li>What Hong Kong is eating right now - 2016's food trends</li>
 <h4>Wall Street Journal</h4>
+<li><a href="http://blogs.wsj.com/scene/2012/07/05/savoring-shanghai-in-wan-chai/" style="background-color: white;" target="_blank">Savor Shanghai in Wan Chai</a>&nbsp;- Zhe Jiang Heen</li>
+<li><a href="http://blogs.wsj.com/scene/2012/06/13/head-to-macau-for-something-besides-gambling/" style="background-color: white;" target="_blank">Head to Macau for Something Besides Gambling</a>&nbsp;- Guincho a Galera</li>
 <h4>NineMSN</h4>
+<li><a href="http://elsewhere.nine.com.au/2016/04/01/14/31/hong-kong-seven-meals" target="_blank">The seven meals to try in Hong Kong</a></li>
 <h4>Marc & Chantal Insights</h4>
+<li><a href="http://www.marc-chantal.com/insights-post/finding-grandmas-food-in-contemporary-asia" target="_blank">Finding Grandma's Food in Contemporary Asia</a></li>
+<li><a href="http://www.marc-chantal.com/insights-post/in-search-of-art" target="_blank">In Search of Art, and Oneself</a></li>
 </ul>
 </div>
 </div>
