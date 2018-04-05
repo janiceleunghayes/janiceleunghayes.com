@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Selected Clips</h2>
 			</header>
-		<p><div class="6u$ 12u$(medium)"><span class="image fit"><img src="assets/images/pic13.png" alt="" /><i><a href="http://www.nytimes.com/interactive/2015/02/18/travel/In-Asia-Tastes-of-the-Sea.html?ref=travel" target="_blank">New York Times - In Asia, Tastes of the Sea</a><br />[Photo by Amanda Kho]</i></span></div>
+		<p><div class="6u$ 12u$(large)"><span class="image fit"><img src="assets/images/pic13.png" alt="" /><i><a href="http://www.nytimes.com/interactive/2015/02/18/travel/In-Asia-Tastes-of-the-Sea.html?ref=travel" target="_blank">New York Times - In Asia, Tastes of the Sea</a><br />[Photo by Amanda Kho]</i></span></div>
 		<ul>
 <li><i><a href="http://www.eater.com/maps/best-hong-kong-restaurants" target="_blank">The 38 Essential Hong Kong Restaurants</a></i></li>
 <li>Eater Explains:&nbsp;<a href="https://www.eater.com/2017/7/7/15928320/hong-kong-bubble-waffle-egglet-gai-daan-zai-ice-cream" target="_blank">All About Hong Kong's "Bubble Waffle"</a></li>
