@@ -52,8 +52,8 @@ I look forward to hearing from you.<br />
 				{% if site.linkedin_url %}
 				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 				{% endif %}
-			</ul></p>
-	</div>
+			</ul>
+	</div></p>
 	</div>
 </section>
 
