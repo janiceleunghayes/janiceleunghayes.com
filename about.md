@@ -119,7 +119,7 @@ Australian Broadcasting Association (ABC), AusBiz Asia Episode 3, June 2014.</li
 <li>The Business of Blogging, General Assembly, Hong Kong, March 2016.</li>
 <li>Women Extraordinaire Forum, Hong Kong, April 2014.</li>
 <li>WOM Guide launch, Hong Kong, February 2012.</li>
-<li><li>Blogging 101, Social Media Week, Hong Kong, February 2012.</li></ul></p></div>
+<li>Blogging 101, Social Media Week, Hong Kong, February 2012.</li></ul></p></div>
 		</div>
 	</div>
 </section>
