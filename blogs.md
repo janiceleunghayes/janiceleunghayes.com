@@ -4,6 +4,7 @@ title: Blogs
 description: In my spare time...
 image: assets/images/pic12.jpg
 nav-menu: true
+tile: true
 ---
 
 <!-- Main -->
