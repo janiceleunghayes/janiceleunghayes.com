@@ -24,6 +24,7 @@ nav-menu: true
 <li>Eater Explains:&nbsp;<a href="https://www.eater.com/2017/7/7/15928320/hong-kong-bubble-waffle-egglet-gai-daan-zai-ice-cream" target="_blank">All About Hong Kong's "Bubble Waffle"</a></li>
 <li><i>Eater Hong Kong Heat Map</i>, eater.com,&nbsp;<a href="http://eater.com/archives/2012/01/09/the-eater-hong-kong-heat-map-where-to-eat-right-now.php" target="_blank">January 2012</a>&nbsp;to&nbsp;<a href="http://www.eater.com/maps/best-new-restaurants-hong-kong" target="_blank">March 2016</a>&nbsp;(ongoing)</li>
 <h4>New York Times</h4>
+<li><a href="http://www.nytimes.com/interactive/2015/02/18/travel/In-Asia-Tastes-of-the-Sea.html?ref=travel" target="_blank">In Asia, Tastes of the Sea</a>&nbsp;(Hong Kong section)</li>
 <h4>Hong Kong Tatler Dining</h4>
 <h4>Travel and Leisure(US)</h4>
 <h4>Australian Gourmet Traveller</h4>
