@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: 
 title: Home
 landing-title: 'Janice Leung Hayes'
 description: null
