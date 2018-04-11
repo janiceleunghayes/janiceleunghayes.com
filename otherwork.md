@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other
+title: Otherthings
 description: Other Work
 image: "/uploads/2018/04/11/nytimes_sea_withtopbanner.jpg"
 nav-menu: true
