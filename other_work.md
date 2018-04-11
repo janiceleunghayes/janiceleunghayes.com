@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Other Work
-description: Other roles and Projects
+title: Other
+description: Other
 image: assets/images/pic12.jpg
 nav-menu: true
 tile: true
