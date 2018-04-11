@@ -12,9 +12,6 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
-  name: nav
-  label: nav
 - type: boolean
   label: nav-menu
   name: nav-menu
