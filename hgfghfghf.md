@@ -1,5 +1,9 @@
 ---
-title: hgfghfghf
-date: 2018-04-11 07:20:14 +0000
+layout: page
+title: Blog
+description: ghdshgdhsgfhfdghfdhgh
+image: "/uploads/2018/04/11/bloghead_Ignacio.png"
+nav-menu: true
+tile: true
 ---
 ghhgfhgfhgfh
