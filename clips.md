@@ -2,7 +2,7 @@
 layout: page
 title: Blog
 description: In my spare time...
-image: assets/images/pic13.png
+image: "/uploads/2018/04/11/bloghead_Ignacio.png"
 nav-menu: true
 tile: true
 ---
