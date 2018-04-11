@@ -19,3 +19,6 @@ fields:
 - type: boolean
   name: tile
   label: tile
+- type: file
+  name: image
+  label: image
