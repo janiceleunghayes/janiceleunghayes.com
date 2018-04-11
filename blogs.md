@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-description: In my spare time...
+description: ''
 image: "/uploads/2018/04/11/bloghead_Ignacio.png"
 nav-menu: true
 tile: true
