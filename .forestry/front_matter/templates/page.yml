@@ -15,6 +15,7 @@ fields:
 - type: boolean
   label: nav-menu
   name: nav-menu
+  default: false
 - type: boolean
   name: tile
   label: tile
