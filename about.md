@@ -20,22 +20,31 @@ tile: true
 <div class="content">
 <div class="inner">
 <header class="major">
-<h3>Social Entrepreneurship</h3>
+<h2>Social Entrepreneurship</h2>
 </header>
 <p>Under her food sustainability platform <a href="http://honestlygreen.hk/" target="_blank"><b>Honestly Green</b></a>, in late 2015, she launched a food-focused farmers market, <a href="http://tongchongstreetmarket.com/" target="_blank"><b>Tong Chong Street Market</b></a>, co-presented with Swire Properties, and in 2017, Honestly Green launched <b>Poho Market</b>.<br>
 <br>
 The markets grew from her 2012 project, Island East Markets, which was the largest urban farmers'  market in the city, and showcased artisanal products that were locally and responsibly made and grown.<br>
 <br>For her efforts towards food sustainability, she was named "Inspiring Homegrown Entrepreneur"in the inaugural <b>Women of Hope</b> awards and made part of <b>Generation T</b> by <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank"><b>Hong Kong Tatler</b></a>.<br />
   </p> </div>
+  
+  <!-- Three -->
+<section id="three"> <div class="spotlights">
+  <section>
+<a class="image">
+<img src="assets/images/pic12.jpg" alt="" data-position="center center" />
+</a>
+<div class="content">
+<div class="inner">
 <header class="major">
-<h4>F&amp;B Insight and Expertise</h4>
+<h2>F&amp;B Insight and Expertise</h2>
 </header>
-<p>As senior director of&nbsp;<a href="http://www.littleadventuresinhongkong.com/" target="_blank"><b>Little Adventures in Hong Kong</b></a>, she consults on the Hong Kong food &amp; beverage scene, and designs and leads custom food and culture experiences, working with world renowned chefs, as well as clients such as CNN and Cathay Pacific.<br /></p>
+<p>As senior director of&nbsp;<a href="http://www.littleadventuresinhongkong.com/" target="_blank"><b>Little Adventures in Hong Kong</b></a>, she consults on the Hong Kong food &amp; beverage scene, and designs and leads custom food and culture experiences, working with world renowned chefs, as well as clients such as CNN and Cathay Pacific.</p>.<br />
     	</div>
-    </section>
 
-<!-- Three -->
-<section id="three" class="inner">
+
+<!-- Four -->
+<section id="four" class="inner">
 <section>
      	<a class="image">
     		<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
@@ -43,26 +52,28 @@ The markets grew from her 2012 project, Island East Markets, which was the large
     	<div class="content">
     		<div class="inner">
     			<header class="major">
-    				<h3>Beverage awards, lists and guides</h3>
+    				<h2>Beverage awards, lists and guides</h2>
     			</header>
     			<p>Janice judges and contributes to major local and international food &amp; beverage awards, lists and guides, and speaks and moderates on panels regarding the food &amp; beverage industry, sustainability, lifestyle media and social entrepreneurship.<br /></p>
     		</div>
     	</div>
     </section>
 
-<!-- Four -->
-<section id="four">
+<!-- Five -->
+<section id="five">
 <div class="inner">
 <header class="major">
-<h4>Education</h4>
+<h2>Education</h2>
 </header>
 <p>She is a graduate of the University of Melbourne, and also holds a WSET Advanced (Level 3) Certificate, which just means she is serious about enjoying a tipple.<br /></p>
 </div>
 </section>
-<section id="four">
+
+<!-- Six -->
+<section id="six">
 <div class="inner">
 <header class="major">
-<h4>Selected Mentions and Appearences</h4>
+<h2>Selected Mentions and Appearences</h2>
 </header>
 <div class="row">
 <div class="4u 12u$(medium)">
@@ -112,5 +123,3 @@ Australian Broadcasting Association (ABC), AusBiz Asia Episode 3, June 2014.</li
 </div>
 </div>
 </section>
-
-</div>
