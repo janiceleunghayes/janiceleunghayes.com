@@ -54,7 +54,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 <section id="four">
 <div class="inner">
 <header class="major">
-<h2>Education</h2>
+<h4>Education</h4>
 </header>
 <p>She is a graduate of the University of Melbourne, and also holds a WSET Advanced (Level 3) Certificate, which just means she is serious about enjoying a tipple.<br /></p>
 </div>
@@ -62,7 +62,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 <section id="four">
 <div class="inner">
 <header class="major">
-<h2>Selected Mentions and Appearences</h2>
+<h4>Selected Mentions and Appearences</h4>
 </header>
 <div class="row">
 <div class="4u 12u$(medium)">
