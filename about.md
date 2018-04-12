@@ -55,8 +55,6 @@ The markets grew from her 2012 project, Island East Markets, which was the large
     	</div>
     </section>
 
-</section>
-
 <!-- Three -->
 <section id="three">
 <div class="inner">
