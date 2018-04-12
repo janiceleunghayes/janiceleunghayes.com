@@ -27,9 +27,7 @@ tile: true
 The markets grew from her 2012 project, Island East Markets, which was the largest urban farmers'  market in the city, and showcased artisanal products that were locally and responsibly made and grown.<br>
 <br>For her efforts towards food sustainability, she was named "Inspiring Homegrown Entrepreneur"in the inaugural <b>Women of Hope</b> awards and made part of <b>Generation T</b> by <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank"><b>Hong Kong Tatler</b></a>.<br />
   </p> </div>
-<header class="major">
 <h4>F&amp;B Insight and Expertise</h4>
-</header>
 <p>As senior director of&nbsp;<a href="http://www.littleadventuresinhongkong.com/" target="_blank"><b>Little Adventures in Hong Kong</b></a>, she consults on the Hong Kong food &amp; beverage scene, and designs and leads custom food and culture experiences, working with world renowned chefs, as well as clients such as CNN and Cathay Pacific.<br /></p>
     	</div>
     </section>
