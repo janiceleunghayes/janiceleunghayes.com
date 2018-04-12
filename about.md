@@ -15,7 +15,7 @@ tile: true
 <section id="two"> <div class="spotlights">
   <section>
 <div class="content">
-<div class="inner">
+<div class="spotlights">
 <header class="major">
 <h2>Social Entrepreneurship</h2>
 </header>
