@@ -76,11 +76,11 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 <div class="4u 12u$(medium)">
 <h3>Articles</h3>
 
-    	<p><ul class="alt"><li>Hong Kong Tatler, <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank">Generation T: The Names Disrupting The Dining Scene In Hong Kong</a>, June 2017.<br /></li>
+    	<p><ul class="alt"><li>Good Food, The Age,<a href="https://www.goodfood.com.au/eat-out/news/melbourne-food-and-wine-festival-2018-meet-three-women-who-are-reshaping-the-food-world-20180302-h0ww4c" target="_blank">Melbourne Food and Wine Festival 2018: Meet three women who are reshaping the food world</a>, March 2018.<br /></li>
 
-<li>Good Food, The Age,<a href="https://www.goodfood.com.au/eat-out/news/melbourne-food-and-wine-festival-2018-meet-three-women-who-are-reshaping-the-food-world-20180302-h0ww4c" target="_blank">Melbourne Food and Wine Festival 2018: Meet three women who are reshaping the food world</a>, March 2018.<br /></li>
 <li>Blueprint for Living, RN (Australian Broadcasting Corporation), <a href="http://www.abc.net.au/radionational/programs/blueprintforliving/behind-the-scenes-of-hong-kongs-largest-farmers-market/9473088" target="_blank">Behind the scenes of Hong Kong's largest farmers market</a>, February 2018.<br /></li>
 <li>Profood, <a href="https://www.profood.hk/blogs/blog/kitchen-confidential-janice-leung-hayes-food-writer-and-founder-of-honestly-green" target="_blank">Kitchen Confidential: Janice Leung Hayes</a>, August 2017.<br /></li>
+<li>Hong Kong Tatler, <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank" target="_blank">Generation T: The Names Disrupting The Dining Scene In Hong Kong</a>, June 2017.<br /></li>
 <li>Lifestyle Asia, <a href="http://www.lifestyleasia.com/478967/20-hong-kong-foodies-to-follow-on-instagram/" target="_blank">20 foodies to follow on Instagram</a>, August 2016.<br /></li>
 <li>Foodpanda, <a href="http://magazine.foodpanda.hk/latest-top-50-hong-kong-bloggers-revealed-in-foodpanda-magazine/" target="_blank">50 Hottest Bloggers</a>, August 2016.<br /></li>
 <li>The Initium 端傳媒, <a href="https://theinitium.com/article/20160616-city-foodandbeverage-yenn-wong/#" target="_blank">香港餐飲界的弄潮兒</a>, June 2016.<br /></li>
