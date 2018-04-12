@@ -35,13 +35,13 @@ The markets grew from her 2012 project, Island East Markets, which was the large
     </section>
 
 <!-- Three -->
-<section id="three" class="spotlights">
+<section id="three" class="inner">
 <section>
      	<a class="image">
     		<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
     	</a>
     	<div class="content">
-    		<div class="spotlights">
+    		<div class="inner">
     			<header class="major">
     				<h3>Beverage awards, lists and guides</h3>
     			</header>
