@@ -40,7 +40,6 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 <h2>F&amp;B Insight and Expertise</h2>
 </header>
 <p>As senior director of&nbsp;<a href="http://www.littleadventuresinhongkong.com/" target="_blank"><b>Little Adventures in Hong Kong</b></a>, she consults on the Hong Kong food &amp; beverage scene, and designs and leads custom food and culture experiences, working with world renowned chefs, as well as clients such as CNN and Cathay Pacific.</p>.<br />
-    	</div>
 
 
 <!-- Four -->
