@@ -24,7 +24,8 @@ tile: true
 </header>
 <p>Under her food sustainability platform <a href="http://honestlygreen.hk/" target="_blank"><b>Honestly Green</b></a>, in late 2015, she launched a food-focused farmers market, <a href="http://tongchongstreetmarket.com/" target="_blank"><b>Tong Chong Street Market</b></a>, co-presented with Swire Properties, and in 2017, Honestly Green launched <b>Poho Market</b>.<br>
 <br>
-The markets grew from her 2012 project, Island East Markets, which was the largest urban farmers'  market in the city, and showcased artisanal products that were locally and responsibly made and grown.<br>For her efforts towards food sustainability, she was named "Inspiring Homegrown Entrepreneur"in the inaugural <b>Women of Hope</b> awards and made part of <b>Generation T</b> by <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank"><b>Hong Kong Tatler</b></a>.<br />
+The markets grew from her 2012 project, Island East Markets, which was the largest urban farmers'  market in the city, and showcased artisanal products that were locally and responsibly made and grown.<br>
+<br>For her efforts towards food sustainability, she was named "Inspiring Homegrown Entrepreneur"in the inaugural <b>Women of Hope</b> awards and made part of <b>Generation T</b> by <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank"><b>Hong Kong Tatler</b></a>.<br />
 
     		</div>
     	</div>
