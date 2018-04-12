@@ -9,7 +9,7 @@ tile: true
 <!-- Main -->
 <div id="main">
 
-<!-- One --> <section id="one"> <div class="inner"> <header class="major"> <h2>Janice Who?</h2> </header> <p>For over a decade, Janice has written, spoken and produced multimedia work on the topics of food, luxury travel and social entrepreneurship. Although based in Hong Kong, her writing can be found across the globe, in publications such as Condé Nast Traveler, Hong Kong Tatler, South China Morning Post, AFAR, New York Times, Monocle, Wall Street Journal, Australian Gourmet Traveller, Discovery Magazine (Cathay Pacific), eater.com, and more. She started her career in food writing first at a community magazine in Melbourne, then in Hong Kong at LUXE City Guides.</p> </div> </section>
+<!-- One --> <section id="one"> <div class="inner"> <header class="major"> <h2>Janice Who?</h2> </header> <p>For over a decade, Janice has written, spoken and produced multimedia work on the topics of food, luxury travel and social entrepreneurship. Although based in Hong Kong, her writing can be found across the globe, in publications such as <b>Condé Nast Traveler</b>, <b>Hong Kong Tatler</b>, <b>South China Morning Post</b>, <b>New York Times</b>, <b>Monocle</b>, <b>Wall Street Journal</b>, <b>Eater</b>, and more. She started her career in food writing first at a community magazine in Melbourne, then in Hong Kong at <b>LUXE City Guides</b>.</p> </div> </section>
 
 <!-- Two -->
 <section id="two"> <div class="spotlights">
@@ -26,7 +26,6 @@ The markets grew from her 2012 project, Island East Markets, which was the large
   </p> </div>
   
   <!-- Three -->
-  <div id="main">
 <section id="three"> <div class="inner">
   <section>
 <div class="content">
@@ -35,7 +34,6 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 <h2>F&amp;B Insight and Expertise</h2>
 </header>
 <p>As senior director of&nbsp;<a href="http://www.littleadventuresinhongkong.com/" target="_blank"><b>Little Adventures in Hong Kong</b></a>, she consults on the Hong Kong food &amp; beverage scene, and designs and leads custom food and culture experiences, working with world renowned chefs, as well as clients such as CNN and Cathay Pacific.</p><br />
-  </div>
 
 
 <!-- Four -->
@@ -74,7 +72,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 <div class="4u 12u$(medium)">
 <h3>Articles</h3>
 
-    	<p><ul class="alt"><li>Good Food, The Age,<a href="https://www.goodfood.com.au/eat-out/news/melbourne-food-and-wine-festival-2018-meet-three-women-who-are-reshaping-the-food-world-20180302-h0ww4c" target="_blank">Melbourne Food and Wine Festival 2018: Meet three women who are reshaping the food world</a>, March 2018.<br /></li>
+    	<p><ul class="alt"><li>Good Food, The Age, <a href="https://www.goodfood.com.au/eat-out/news/melbourne-food-and-wine-festival-2018-meet-three-women-who-are-reshaping-the-food-world-20180302-h0ww4c" target="_blank">Melbourne Food and Wine Festival 2018: Meet three women who are reshaping the food world</a>, March 2018.<br /></li>
 
 <li>Blueprint for Living, RN (Australian Broadcasting Corporation), <a href="http://www.abc.net.au/radionational/programs/blueprintforliving/behind-the-scenes-of-hong-kongs-largest-farmers-market/9473088" target="_blank">Behind the scenes of Hong Kong's largest farmers market</a>, February 2018.<br /></li>
 <li>Profood, <a href="https://www.profood.hk/blogs/blog/kitchen-confidential-janice-leung-hayes-food-writer-and-founder-of-honestly-green" target="_blank">Kitchen Confidential: Janice Leung Hayes</a>, August 2017.<br /></li>
