@@ -31,9 +31,6 @@ The markets grew from her 2012 project, Island East Markets, which was the large
   <!-- Three -->
 <section id="three"> <div class="spotlights">
   <section>
-<a class="image">
-<img src="assets/images/pic12.jpg" alt="" data-position="center center" />
-</a>
 <div class="content">
 <div class="inner">
 <header class="major">
