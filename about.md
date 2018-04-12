@@ -54,7 +54,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 
 <!-- Five -->
 <section id="five">
-<div class="inner">
+<div class="spotlights">
 <header class="major">
 <h2>Education</h2>
 </header>
@@ -64,7 +64,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 
 <!-- Six -->
 <section id="six">
-<div class="inner">
+<div class="spotlights">
 <header class="major">
 <h2>Selected Mentions and Appearences</h2>
 </header>
