@@ -14,9 +14,6 @@ tile: true
 <!-- Two -->
 <section id="two"> <div class="spotlights">
   <section>
-<a class="image">
-<img src="assets/images/pic12.jpg" alt="" data-position="center center" />
-</a>
 <div class="content">
 <div class="inner">
 <header class="major">
