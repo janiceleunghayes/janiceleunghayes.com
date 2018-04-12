@@ -27,15 +27,16 @@ tile: true
 The markets grew from her 2012 project, Island East Markets, which was the largest urban farmers'  market in the city, and showcased artisanal products that were locally and responsibly made and grown.<br>
 <br>For her efforts towards food sustainability, she was named "Inspiring Homegrown Entrepreneur"in the inaugural <b>Women of Hope</b> awards and made part of <b>Generation T</b> by <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank"><b>Hong Kong Tatler</b></a>.<br />
 
-    		
-    <section>
-    	<a class="image">
-    		<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-    	</a>
-    	<div class="content">
-    		<div class="inner">
-    			<header class="major">
-    				<h3>F&B Insight and Expertise</h3>
+<!-- Three -->
+<section id="three" class="spotlights">
+<section>
+  <a class="image">
+<img src="assets/images/pic9.jpg" alt="" data-position="center center" />
+</a>
+<div class="content">
+<div class="inner">
+<header class="major">
+<h3>F&B Insight and Expertise</h3>
     			</header>
     			<p>As senior director of&nbsp;<a href="http://www.littleadventuresinhongkong.com/" target="_blank"><b>Little Adventures in Hong Kong</b></a>, she consults on the Hong Kong food & beverage scene, and designs and leads custom food and culture experiences, working with world renowned chefs, as well as clients such as CNN and Cathay Pacific.<br /></p>
     		</div>
@@ -48,15 +49,15 @@ The markets grew from her 2012 project, Island East Markets, which was the large
     	<div class="content">
     		<div class="inner">
     			<header class="major">
-    				<h3>Bevarage awards, lists and guides</h3>
+    				<h3>Beverage awards, lists and guides</h3>
     			</header>
     			<p>Janice judges and contributes to major local and international food &amp; beverage awards, lists and guides, and speaks and moderates on panels regarding the food &amp; beverage industry, sustainability, lifestyle media and social entrepreneurship.<br /></p>
     		</div>
     	</div>
     </section>
 
-<!-- Three -->
-<section id="three">
+<!-- Four -->
+<section id="four">
 <div class="inner">
 <header class="major">
 <h2>Education</h2>
@@ -64,7 +65,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 <p>She is a graduate of the University of Melbourne, and also holds a WSET Advanced (Level 3) Certificate, which just means she is serious about enjoying a tipple.<br /></p>
 </div>
 </section>
-<section id="three">
+<section id="four">
 <div class="inner">
 <header class="major">
 <h2>Selected Mentions and Appearences</h2>
