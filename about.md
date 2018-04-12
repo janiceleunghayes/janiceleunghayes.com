@@ -9,7 +9,7 @@ tile: true
 <!-- Main -->
 <div id="main">
 
-<!-- One --> <section id="one"> <div class="inner"> <header class="major"> <h2>Janice Who?</h2> </header> <p>For over a decade, Janice has written, spoken and produced multimedia work on the subjects of food, luxury travel, media and social entrepreneurship. Although based in Hong Kong, her writing can be found across the globe, in publications such as <b>Condé Nast Traveler</b>, <b>Hong Kong Tatler</b>, <b>South China Morning Post</b>, <b>New York Times</b>, <b>Monocle</b>, <b>Wall Street Journal</b>, <b>Eater</b>, and more. She started her career in food writing first at a community magazine in Melbourne, and in Hong Kong at <b>LUXE City Guides</b>.</p> </div> </section>
+<!-- One --> <section id="one"> <div class="inner"> <header class="major"> <h2>Janice Who?</h2> </header> <p>For over a decade, Janice has written, spoken and produced multimedia work on the subjects of food, luxury travel, media and social entrepreneurship. Although based in Hong Kong, her writing can be found across the globe, in such publications as <b>Condé Nast Traveler</b>, <b>Hong Kong Tatler</b>, <b>South China Morning Post</b>, <b>New York Times</b>, <b>Monocle</b>, <b>Wall Street Journal</b>, <b>Eater</b>, and more. She started her career in food writing first at a community magazine in Melbourne, and in Hong Kong at <b>LUXE City Guides</b>.</p> </div> </section>
 
 <!-- Two -->
 <section id="two"> <div class="spotlights">
