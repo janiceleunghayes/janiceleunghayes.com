@@ -107,8 +107,8 @@ Australian Broadcasting Association (ABC), AusBiz Asia Episode 3, June 2014.</li
 <br /></ul></p></div>
 <div class="4u 12u$(medium)">
 <h3>Panels/Talks</h3>
-<p><li>Melbourne Food and Wine Festival, Theatre of Ideas, March 2018.</li>
-<ul class="alt"><li>Tatler Table, Taste of Hong Kong, March 2017.</li>
+<p><ul class="alt"><li>Melbourne Food and Wine Festival, Theatre of Ideas, March 2018.</li>
+<li>Tatler Table, Taste of Hong Kong, March 2017.</li>
 <li>TEDxHong Kong, November 2016.</li>
 <li>The Business of Blogging, General Assembly, Hong Kong, March 2016.</li>
 <li>Women Extraordinaire Forum, Hong Kong, April 2014.</li>
