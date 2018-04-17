@@ -29,7 +29,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 <section id="three"> <div class="inner">
   <section>
     <a class="image">
-    		<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+    		<img src="assets/images/LAHK.png" alt="" data-position="25% 25%" />
     	</a>
 <div class="content">
 <div class="inner">
