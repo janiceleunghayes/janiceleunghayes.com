@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Other
-description: Other
+title: Other Work
+description: Other Work
 image: assets/images/pic12.jpg
 nav-menu: true
 tile: true
