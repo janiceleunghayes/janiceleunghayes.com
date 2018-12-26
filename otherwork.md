@@ -16,7 +16,7 @@ tile: true
 		<header class="major">
 			<h2>Initiatives</h2>
 			</header>
-		<p>Director of multidisciplinary sustainable food platform <a href="http://honestlygreen.hk/" target="_blank">Honestly Green</a>, presenting farmers' market Poho Market (2017- ) and&nbsp;co-presenting with Swire Properties&nbsp;<a href="http://tongchongstreetmarket.com/" target="_blank">Tong Chong Street Market</a>&nbsp;(2015- ), a food-focused street market.<br />
+		<p>Director of multidisciplinary sustainable food platform <a href="http://honestlygreen.hk/" target="_blank">Honestly Green</a>, presenting farmers' market Poho Market (2017-2018) and&nbsp;co-presenting with Swire Properties&nbsp;<a href="http://tongchongstreetmarket.com/" target="_blank">Tong Chong Street Market</a>&nbsp;(2015- ), a food-focused street market.<br />
 Co-founder and director of <a href="http://www.hkmarkets.org/" target="_blank">Island East Markets</a> - Hong Kong's largest urban farmers' market, with local organic produce, arts and crafts, food, 2012-2014.<br />
 <i style="font-weight: bold;"><br /></i></p>
 	</div>
@@ -31,9 +31,9 @@ Co-founder and director of <a href="http://www.hkmarkets.org/" target="_blank">I
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Films</h3>
+					<h3>Video and Film</h3>
 				</header>
-				<p>Les Aventures d'Anthony, China, 2015 (pre-production, production, food styling, food consultant, subtitling)<br />
+				<p><a href="https://www.capsule48.com/" target="_blank">Capsule48</a>, Producer<br />Les Aventures d'Anthony, China, 2015 (pre-production, production, food styling, food consultant, subtitling)<br />
 All's Well Ends Well 2012, Hong Kong, 2012 (subtitling)<br />
 All's Well Ends Well 2011, Hong Kong, 2011 (subtitling)<br />
 The Jade and the Pearl, Hong Kong, 2010 (subtitling)<br />
