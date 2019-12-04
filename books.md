@@ -16,13 +16,16 @@ tile: true
 		<header class="major">
 			<h2>Books</h2>
 			</header>
-		<p><b><a href="https://monocle.com/shop/books-and-music/travel-guides/the-monocle-travel-guide-hong-kong/" target="_blank">Monocle Hong Kong Travel Guide</a></b><br />
+		<p><b><a href="https://truthloveandcleancutlery.com/" target="_blank">Truth, Love and Clean Cutlery</a></b><br />
+<b><i>Contributing Editor, Hong Kong & China</i></b><br />
+<br />
+<b><a href="https://monocle.com/shop/books-and-music/travel-guides/the-monocle-travel-guide-hong-kong/" target="_blank">Monocle Hong Kong Travel Guide</a></b><br />
 <b><i>Contributing Writer</i></b><br />
 <br />
 <b>Where to Eat Pizza (published by Phaidon)</b><br />
 <b><i>Contributor</i></b><br />
 <br />
-<a href="http://the-icons.com/" target="_blank"><b>Sarment Icons 2015 Cookbook</b></a><br />
+<b>Sarment Icons 2015 Cookbook</b><br />
 <b><i>Writer and editor</i></b><br />
 <b><i><br /></i></b>
 <b><i>Various cookbooks as ghostwriter &amp; editor (references available on request)</i></b><br />
