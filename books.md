@@ -22,7 +22,7 @@ tile: true
 <b><a href="https://monocle.com/shop/books-and-music/travel-guides/the-monocle-travel-guide-hong-kong/" target="_blank">Monocle Hong Kong Travel Guide</a></b><br />
 <b><i>Contributing Writer</i></b><br />
 <br />
-<b>Where to Eat Pizza (published by Phaidon)</b><br />
+<b>Where to Eat Pizza (Phaidon)</b><br />
 <b><i>Contributor</i></b><br />
 <br />
 <b>Sarment Icons 2015 Cookbook</b><br />
