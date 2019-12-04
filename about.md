@@ -9,7 +9,7 @@ tile: true
 <!-- Main -->
 <div id="main">
 
-<!-- One --> <section id="one"> <div class="inner"> <header class="major"> <h2>Janice Who?</h2> </header> <p>For over a decade, Janice has written, spoken and produced multimedia work on the subjects of food, luxury travel, media and social entrepreneurship. Although based in Hong Kong, her writing can be found across the globe, in such publications as <b>Condé Nast Traveler</b>, <b>Hong Kong Tatler</b>, <b>South China Morning Post</b>, <b>New York Times</b>, <b>Monocle</b>, <b>Wall Street Journal</b>, <b>Eater</b>, and more. She started her career in food writing first at a community magazine in Melbourne, and in Hong Kong at <b>LUXE City Guides</b>.</p> </div> </section>
+<!-- One --> <section id="one"> <div class="inner"> <header class="major"> <h2>Janice Who?</h2> </header> <p>For over a decade, Janice has written, spoken and produced films and videos on the subjects of food, luxury travel, media, entrepreneurship and sustainability. Although based in Hong Kong, her writing can be found across the globe, in such publications as <b>Condé Nast Traveler</b>, <b>Hong Kong Tatler</b>, <b>South China Morning Post</b>, <b>New York Times</b>, <b>Monocle</b>, <b>Wall Street Journal</b>, <b>Eater</b>, and more. She started her career in food writing first at a community magazine in Melbourne, and in Hong Kong at <b>LUXE City Guides</b>.</p> </div> </section>
 
 <!-- Two -->
 <section id="two"> <div class="spotlights">
@@ -17,11 +17,11 @@ tile: true
 <div class="content">
 <div class="spotlights">
 <header class="major">
-<h2>Social Entrepreneurship</h2>
+<h2>Sustainability</h2>
 </header>
-<p>Under her food sustainability platform <a href="http://honestlygreen.hk/" target="_blank"><b>Honestly Green</b></a>, in late 2015, she launched a food-focused farmers market, <a href="http://tongchongstreetmarket.com/" target="_blank"><b>Tong Chong Street Market</b></a>, co-presented with Swire Properties, and in 2017, Honestly Green launched <b>Poho Market</b>.<br>
+<p>Under her food sustainability platform <a href="http://honestlygreen.hk/" target="_blank"><b>Honestly Green</b></a>, in late 2015, she launched a food-focused farmers market, <a href="http://tongchongstreetmarket.com/" target="_blank"><b>Tong Chong Street Market</b></a>, co-presented with Swire Properties</b>.<br>
 <br>
-The markets grew from her 2012 project, Island East Markets, which was the largest urban farmers'  market in the city, and showcased artisanal products that were locally and responsibly made and grown.<br>
+The market grew from her 2012 project, Island East Markets, which was the largest urban farmers' market in the city, and showcased artisanal products that were locally and responsibly made and grown.<br>
 <br>For her efforts towards food sustainability, she was named "Inspiring Homegrown Entrepreneur"in the inaugural <b>Women of Hope</b> awards and made part of <b>Generation T</b> by <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank"><b>Hong Kong Tatler</b></a>.<br />
   </p> </div>
   
@@ -58,7 +58,7 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 <header class="major">
 <h2>Education</h2>
 </header>
-<p>She is a graduate of the University of Melbourne, and also holds a WSET Advanced (Level 3) Certificate, which just means she is serious about enjoying a tipple.<br /></p>
+<p>She is a graduate of the University of Melbourne, and holds an Advanced Certificate in Nutrition from the University of Hong Kong, as well as a WSET Advanced (Level 3) Certificate. You can have cake and eat it (in moderation)!<br /></p>
 </div>
 </section>
 
@@ -72,8 +72,8 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 <div class="4u 12u$(medium)">
 <h3>Articles</h3>
 
-    	<p><ul class="alt"><li>Good Food, The Age, <a href="https://www.goodfood.com.au/eat-out/news/melbourne-food-and-wine-festival-2018-meet-three-women-who-are-reshaping-the-food-world-20180302-h0ww4c" target="_blank">Melbourne Food and Wine Festival 2018: Meet three women who are reshaping the food world</a>, March 2018.<br /></li>
-
+<p><ul class="alt">
+<li>Good Food, The Age, <a href="https://www.goodfood.com.au/eat-out/news/melbourne-food-and-wine-festival-2018-meet-three-women-who-are-reshaping-the-food-world-20180302-h0ww4c" target="_blank">Melbourne Food and Wine Festival 2018: Meet three women who are reshaping the food world</a>, March 2018.<br /></li>
 <li>Blueprint for Living, RN (Australian Broadcasting Corporation), <a href="http://www.abc.net.au/radionational/programs/blueprintforliving/behind-the-scenes-of-hong-kongs-largest-farmers-market/9473088" target="_blank">Behind the scenes of Hong Kong's largest farmers market</a>, February 2018.<br /></li>
 <li>Profood, <a href="https://www.profood.hk/blogs/blog/kitchen-confidential-janice-leung-hayes-food-writer-and-founder-of-honestly-green" target="_blank">Kitchen Confidential: Janice Leung Hayes</a>, August 2017.<br /></li>
 <li>Hong Kong Tatler, <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank" target="_blank">Generation T: The Names Disrupting The Dining Scene In Hong Kong</a>, June 2017.<br /></li>
@@ -93,7 +93,10 @@ The markets grew from her 2012 project, Island East Markets, which was the large
 </div>
 <div class="4u 12u$(medium)">
 <h3>Audio/Visual</h3>
-<p><ul class="alt"><li><a href="https://monocle.com/radio/shows/the-menu/food-neighbourhoods-1/" target="_blank">The Menu</a>, Monocle Radio, September 2016.<br /></li>
+<p><ul class="alt">
+<li>All About Money <a href="https://www.facebook.com/watch/?v=572045626881349" target="_blank">Part One</a>, <a href="https://www.facebook.com/watch/?v=536619276897402" target="_blank">Part Two</a>, Hong Kong International Business Channel, November 2019.<br /></li>
+<li><a href="https://www.worldnomads.com/explore/eastern-asia/china/the-world-nomads-podcast-china" target="_blank">The World Nomads Podcast: China</a>, The World Nomads Travel Podcast, October 2019.<br /></li>
+<li><a href="https://monocle.com/radio/shows/the-menu/food-neighbourhoods-1/" target="_blank">The Menu</a>, Monocle Radio, September 2016.<br /></li>
 <li>Hungry Foodies, TVB J2, June 2016.<br /></li>
 <li><a href="http://www.foodblogradio.com/janice-leung-hayes-of-e_tingfood-com/" target="_blank">Food Blog Radio</a>, February 2016.<br /></li>
 <li><a href="http://programme.rthk.hk/channel/radio/programme.php?name=radio1/food_from_the_earth&d=2015-12-12&p=6521&e=336771&m=episode" target="_blank">自然好味</a>, RTHK, December 2015.<br /></li>
