@@ -22,6 +22,8 @@ tile: true
 <b><a href="https://monocle.com/shop/books-and-music/travel-guides/the-monocle-travel-guide-hong-kong/" target="_blank">Monocle Hong Kong Travel Guide</a></b><br />
 <b><i>Contributing Writer</i></b><br />
 <br />
+<b><a href="https://hk.asiatatler.com/dining/add-oil-the-recipe-book-hong-kong" target="_blank">Add Oil – The Recipe Book in support of Hong Kong's restaurants and bars</a></b><br />
+<b><i>Editor</i></b><br />
 <b>Where to Eat Pizza (Phaidon)</b><br />
 <b><i>Contributor</i></b><br />
 <br />
