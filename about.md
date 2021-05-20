@@ -9,7 +9,7 @@ tile: true
 <!-- Main -->
 <div id="main">
 
-<!-- One --> <section id="one"> <div class="inner"> <header class="major"> <h2>Janice Who?</h2> </header> <p>For over a decade, Janice has written, spoken and produced films and videos on the subjects of food, luxury travel, media, entrepreneurship and sustainability. Although based in Hong Kong, her writing can be found across the globe, in such publications as <b>Condé Nast Traveler</b>, <b>Hong Kong Tatler</b>, <b>South China Morning Post</b>, <b>New York Times</b>, <b>Monocle</b>, <b>Wall Street Journal</b>, <b>Eater</b>, and more. She started her career in food writing first at a community magazine in Melbourne, and in Hong Kong at <b>LUXE City Guides</b>.</p> </div> </section>
+<!-- One --> <section id="one"> <div class="inner"> <header class="major"> <h2>Janice Who?</h2> </header> <p>For over a decade, Janice has written, spoken, advised and produced films and videos on the subjects of food, luxury travel, social media, and sustainability. Although based in Hong Kong, her writing can be found across the globe, in such publications as <b>Condé Nast Traveler</b>, <b>Hong Kong Tatler</b>, <b>South China Morning Post</b>, <b>New York Times</b>, <b>Monocle</b>, <b>Wall Street Journal</b>, <b>Eater</b>, and more. She started her career in food writing first at a community magazine in Melbourne, and in Hong Kong at <b>LUXE City Guides</b>. In 2016, she cofounded multimedia creative agency <a href="http://capsule48.com/" target="_blank"><b>Capsule48</b></a>.</p> </div> </section>
 
 <!-- Two -->
 <section id="two"> <div class="spotlights">
@@ -19,7 +19,7 @@ tile: true
 <header class="major">
 <h2>Sustainability</h2>
 </header>
-<p>Under her food sustainability platform <a href="http://honestlygreen.hk/" target="_blank"><b>Honestly Green</b></a>, in late 2015, she launched a food-focused farmers market, <a href="http://tongchongstreetmarket.com/" target="_blank"><b>Tong Chong Street Market</b></a>, co-presented with Swire Properties</b>.<br>
+<p>Under her food sustainability platform <a href="http://honestlygreen.hk/" target="_blank"><b>Honestly Green</b></a>, in late 2015, she launched a food-focused farmers market, <a href="http://tongchongstreetmarket.com/" target="_blank"><b>Tong Chong Street Market</b></a>, co-presented with Swire Properties</b> and remains an advisor.<br>
 <br>
 The market grew from her 2012 project, Island East Markets, which was the largest urban farmers' market in the city, and showcased artisanal products that were locally and responsibly made and grown.<br>
 <br>For her efforts towards food sustainability, she was named "Inspiring Homegrown Entrepreneur"in the inaugural <b>Women of Hope</b> awards and made part of <b>Generation T</b> by <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank"><b>Hong Kong Tatler</b></a>.<br />
@@ -58,7 +58,7 @@ The market grew from her 2012 project, Island East Markets, which was the larges
 <header class="major">
 <h2>Education</h2>
 </header>
-<p>She is a graduate of the University of Melbourne, and holds an Advanced Certificate in Nutrition from the University of Hong Kong, as well as a WSET Advanced (Level 3) Certificate. You can have cake and eat it (in moderation)!<br /></p>
+<p>She is a graduate of the University of Melbourne, and holds an Advanced Certificate in Nutrition from the University of Hong Kong, as well as a WSET Advanced (Level 3) Certificate.<br /></p>
 </div>
 </section>
 
@@ -73,9 +73,9 @@ The market grew from her 2012 project, Island East Markets, which was the larges
 <h3>Articles</h3>
 
 <p><ul class="alt">
+<li>Hong Kong Tatler, <a href="https://hk.asiatatler.com/dining/asia-most-influential-hong-kong-tastemakers-list-2021" target="_blank">Asia’s Most Influential: Hong Kong’s 42 Tastemakers 2021</a>, May 2021
 <li>Good Food, The Age, <a href="https://www.goodfood.com.au/eat-out/news/melbourne-food-and-wine-festival-2018-meet-three-women-who-are-reshaping-the-food-world-20180302-h0ww4c" target="_blank">Melbourne Food and Wine Festival 2018: Meet three women who are reshaping the food world</a>, March 2018.<br /></li>
 <li>Blueprint for Living, RN (Australian Broadcasting Corporation), <a href="http://www.abc.net.au/radionational/programs/blueprintforliving/behind-the-scenes-of-hong-kongs-largest-farmers-market/9473088" target="_blank">Behind the scenes of Hong Kong's largest farmers market</a>, February 2018.<br /></li>
-<li>Profood, <a href="https://www.profood.hk/blogs/blog/kitchen-confidential-janice-leung-hayes-food-writer-and-founder-of-honestly-green" target="_blank">Kitchen Confidential: Janice Leung Hayes</a>, August 2017.<br /></li>
 <li>Hong Kong Tatler, <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank" target="_blank">Generation T: The Names Disrupting The Dining Scene In Hong Kong</a>, June 2017.<br /></li>
 <li>Lifestyle Asia, <a href="http://www.lifestyleasia.com/478967/20-hong-kong-foodies-to-follow-on-instagram/" target="_blank">20 foodies to follow on Instagram</a>, August 2016.<br /></li>
 <li>Foodpanda, <a href="http://magazine.foodpanda.hk/latest-top-50-hong-kong-bloggers-revealed-in-foodpanda-magazine/" target="_blank">50 Hottest Bloggers</a>, August 2016.<br /></li>
