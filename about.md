@@ -74,21 +74,17 @@ The market grew from her 2012 project, Island East Markets, which was the larges
 
 <p><ul class="alt">
 <li>Hong Kong Tatler, <a href="https://hk.asiatatler.com/dining/asia-most-influential-hong-kong-tastemakers-list-2021" target="_blank">Asia’s Most Influential: Hong Kong’s 42 Tastemakers 2021</a>, May 2021.<br /></li>
+<li>Los Angeles Times, <a href="https://www.latimes.com/food/story/2021-02-05/lunar-new-year-cantonese-poon-choi" target="_blank">A Cantonese Lunar New Year feast we could all use right now</a>, Feb 2021.<br /></li>
+<li>CNN, <a href="https://edition.cnn.com/travel/article/asia-taiwan-street-food-markets/index.html" target="_blank">How tourism, gentrification and a pandemic have changed Asia's street food scene</a>, Dec 2020.<br /></li>
 <li>Slate France, <a href="http://www.slate.fr/story/194663/asie-hong-kong-cuisine-gastronomie-francaise-restaurants-crise-manifestations-covid-19-loi-securite-nationale" target="_blank">À Hong Kong, la gastronomie française traverse une crise inédite</a>, Sep 2020.<br /></li>
 <li>Good Food, The Age, <a href="https://www.goodfood.com.au/eat-out/news/melbourne-food-and-wine-festival-2018-meet-three-women-who-are-reshaping-the-food-world-20180302-h0ww4c" target="_blank">Melbourne Food and Wine Festival 2018: Meet three women who are reshaping the food world</a>, March 2018.<br /></li>
-<li>Blueprint for Living, RN (Australian Broadcasting Corporation), <a href="http://www.abc.net.au/radionational/programs/blueprintforliving/behind-the-scenes-of-hong-kongs-largest-farmers-market/9473088" target="_blank">Behind the scenes of Hong Kong's largest farmers market</a>, February 2018.<br /></li>
 <li>Hong Kong Tatler, <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank" target="_blank">Generation T: The Names Disrupting The Dining Scene In Hong Kong</a>, June 2017.<br /></li>
-<li>Lifestyle Asia, <a href="http://www.lifestyleasia.com/478967/20-hong-kong-foodies-to-follow-on-instagram/" target="_blank">20 foodies to follow on Instagram</a>, August 2016.<br /></li>
-<li>Foodpanda, <a href="http://magazine.foodpanda.hk/latest-top-50-hong-kong-bloggers-revealed-in-foodpanda-magazine/" target="_blank">50 Hottest Bloggers</a>, August 2016.<br /></li>
 <li>The Initium 端傳媒, <a href="https://theinitium.com/article/20160616-city-foodandbeverage-yenn-wong/#" target="_blank">香港餐飲界的弄潮兒</a>, June 2016.<br /></li>
 <li>Forbes, <a href="http://www.forbes.com/sites/nanhiein/2016/01/12/h-k-food-and-restaurant-trends-to-watch-out-for-in-2016/#14a338854a12" target="_blank">2016 Hong Kong Food and Restaurant Trends</a>, January 2016<br /></li>
-<li>Hong Kong Tatler, The Food Issue & <a href="http://hk.dining.asiatatler.com/features/tatlertable-janice-leung-hayes#slide-1" target="_blank">#TatlerTable</a>, November 2015.<br /></li>
-<li>South China Morning Post - <a href="http://www.scmp.com/video/hong-kong/1694200/food-dreams-struggle-make-it-hong-kongs-super-competitive-restaurant-market" target="_blank">Food Dreams - The struggle to make it in Hong Kong's super-competitive restaurant market</a> \[video\], January 2015.<br /></li>
 <li><a href="http://www.falstaff.at/nc/news/newsartikel/hongkong-die-kulinarik-szene-erfindet-sich-neu-7727.html" target="_blank">Falstaff</a> (Austria), February 2014.<br /></li>
 <li><a href="http://nymag.com/travel/features/hong-kong-restaurants-2013-2/" target="_blank">New York Magazine</a>, February 2013.<br /></li>
 <li>Jing Daily, <a href="http://www.jingdaily.com/this-isjanice-leung/21473/" target="_blank">10 Minutes With...</a>, October 2012.<br /></li>
 <li>Sassy Hong Kong, <a href="http://sassyhongkong.com/that-girl-janice-leung-food-blogger-queen-co-founder-of-island-east-markets/" target="_blank">That Girl</a>, September 2012.<br /></li>
-<li>Time Out Hong Kong, <a href="http://www.timeout.com.hk/restaurants-bars/features/50257/20-people-changing-the-way-we-eat-and-drink.html" target="_blank">20 People Changing the Way You Eat and Drink</a>, April 2012.<br /></li>
 <li>Bloomberg Businessweek, <a href="http://www.businessweek.com/articles/2012-03-19/the-secret-world-of-hong-kongs-private-kitchens#p1" target="_blank">The Secret World of Hong Kong's Private Kitchens</a>, March 2012.<br /></li>
 </ul></p>
 </div>
@@ -97,6 +93,7 @@ The market grew from her 2012 project, Island East Markets, which was the larges
 <p><ul class="alt">
 <li>All About Money <a href="https://www.facebook.com/watch/?v=572045626881349" target="_blank">Part One</a>, <a href="https://www.facebook.com/watch/?v=536619276897402" target="_blank">Part Two</a>, Hong Kong International Business Channel, November 2019.<br /></li>
 <li><a href="https://www.worldnomads.com/explore/eastern-asia/china/the-world-nomads-podcast-china" target="_blank">The World Nomads Podcast: China</a>, The World Nomads Travel Podcast, October 2019.<br /></li>
+<li>Blueprint for Living, RN (Australian Broadcasting Corporation), <a href="http://www.abc.net.au/radionational/programs/blueprintforliving/behind-the-scenes-of-hong-kongs-largest-farmers-market/9473088" target="_blank">Behind the scenes of Hong Kong's largest farmers market</a>, February 2018.<br /></li>
 <li><a href="https://monocle.com/radio/shows/the-menu/food-neighbourhoods-1/" target="_blank">The Menu</a>, Monocle Radio, September 2016.<br /></li>
 <li>Hungry Foodies, TVB J2, June 2016.<br /></li>
 <li><a href="http://www.foodblogradio.com/janice-leung-hayes-of-e_tingfood-com/" target="_blank">Food Blog Radio</a>, February 2016.<br /></li>
@@ -110,8 +107,10 @@ Australian Broadcasting Association (ABC), AusBiz Asia Episode 3, June 2014.</li
 <li><a href="http://www.litvchannel.com/themaverickchef/episodes/" target="_blank">The Maverick Chef</a>, LiTV, December 2011.<br /></li>
 <br /></ul></p></div>
 <div class="4u 12u$(medium)">
-<h3>Panels/Talks</h3>
-<p><ul class="alt"><li>Melbourne Food and Wine Festival, Theatre of Ideas, March 2018.</li>
+<h3>Speaking and Moderating</h3>
+<p><ul class="alt">
+<li>Macao International Travel (Industry) Expo, The Great Green Food Journey, presented by National Geographic and Macao Government Tourism Office, April 2019.</li>
+<li>Melbourne Food and Wine Festival, Theatre of Ideas, March 2018.</li>
 <li>Tatler Table, Taste of Hong Kong, March 2017.</li>
 <li>TEDxHong Kong, November 2016.</li>
 <li>The Business of Blogging, General Assembly, Hong Kong, March 2016.</li>
