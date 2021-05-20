@@ -73,7 +73,8 @@ The market grew from her 2012 project, Island East Markets, which was the larges
 <h3>Articles</h3>
 
 <p><ul class="alt">
-<li>Hong Kong Tatler, <a href="https://hk.asiatatler.com/dining/asia-most-influential-hong-kong-tastemakers-list-2021" target="_blank">Asia’s Most Influential: Hong Kong’s 42 Tastemakers 2021</a>, May 2021
+<li>Hong Kong Tatler, <a href="https://hk.asiatatler.com/dining/asia-most-influential-hong-kong-tastemakers-list-2021" target="_blank">Asia’s Most Influential: Hong Kong’s 42 Tastemakers 2021</a>, May 2021.<br /></li>
+<li>Slate France, <a href="http://www.slate.fr/story/194663/asie-hong-kong-cuisine-gastronomie-francaise-restaurants-crise-manifestations-covid-19-loi-securite-nationale" target="_blank">À Hong Kong, la gastronomie française traverse une crise inédite</a>, Sep 2020.<br /></li>
 <li>Good Food, The Age, <a href="https://www.goodfood.com.au/eat-out/news/melbourne-food-and-wine-festival-2018-meet-three-women-who-are-reshaping-the-food-world-20180302-h0ww4c" target="_blank">Melbourne Food and Wine Festival 2018: Meet three women who are reshaping the food world</a>, March 2018.<br /></li>
 <li>Blueprint for Living, RN (Australian Broadcasting Corporation), <a href="http://www.abc.net.au/radionational/programs/blueprintforliving/behind-the-scenes-of-hong-kongs-largest-farmers-market/9473088" target="_blank">Behind the scenes of Hong Kong's largest farmers market</a>, February 2018.<br /></li>
 <li>Hong Kong Tatler, <a href="http://hk.dining.asiatatler.com/features/generationt-fb-names-disrupting-the-dining-scene#slide-1" target="_blank" target="_blank">Generation T: The Names Disrupting The Dining Scene In Hong Kong</a>, June 2017.<br /></li>
